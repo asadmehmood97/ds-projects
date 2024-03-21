@@ -1,0 +1,9 @@
+https://www.kaggle.com/code/mrsohelranapro/anomaly-detection-in-blockchain-system-via-ml (Anomaly Detection in Blockchain System Via ML)
+
+https://www.kaggle.com/code/oussamamounnan/recent-trends-in-block-chain-and-anomaly-detection (Recent trends in Block chain and anomaly detection)
+
+https://www.kaggle.com/code/sergiovirahonda/forecasting-and-anomally-detection (Forecasting and anomally detection)
+
+https://www.kaggle.com/code/aminao4000/eda-bitcoin-blockchain-sql (EDA)
+
+https://www.kaggle.com/code/slickwilly/network-analysis-bitcoin-blockchain-data (EDA)
