@@ -1,4 +1,4 @@
-## Bees, Bryophytes,	Carabids,	Isopods,	Ladybirds,	Macromoths,	Vascular_plants	
+## Biodiversity Analysis: Species Richness from 7 Taxonomic Groups 	
 
 data <- read.csv("proportional_species_richness_V2.csv")
 
