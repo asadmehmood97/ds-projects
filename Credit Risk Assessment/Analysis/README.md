@@ -1,8 +1,8 @@
-# Enhancing Credit Risk Assessment Using ML & Hyperparameter Optimization
+# **Optimization of Credit Risk Assessment through Advanced Machine Learning and Hyperparameter Tunning**
 
 This project focuses on efficiently optimized multiple machine learning models for credit risk assessment with hyperparameter Tunning. It employs Decision Tree Classifier, Logistic Regression, and KNeighbors Classifier, Random Forest Classifier, CatBoost Classifier and XGBoost Classifier for classification tasks.
 
-## Introduction
+## **Introduction**
 
 The project includes the following steps:
 
@@ -37,7 +37,7 @@ The project includes the following steps:
    - Precision Recall Curve
 8. **Feature Importance**
 
-## Instructions
+## **Instructions**
 
 To run the analysis:
 
@@ -46,14 +46,14 @@ To run the analysis:
 3. Execute the provided Python code in your preferred Python environment.
 4. Load the dataset (assuming it's named "credit_risk_dataset.csv") into your working directory.
 
-## File Structure
+## **File Structure**
 
 - `credit_risk_dataset.csv`: Dataset containing corona cases data.
 - `README.md`: Overview of the project, steps performed, and instructions for running the analysis.
 - `requirements.txt`: Text file containing a list of Python packages required to run the code.
 - `project-code.ipynb`: Contains the code for data preprocessing and analysis.
 
-## Notes
+## **Notes**
 
 - Modify the code and analyses as needed based on specific requirements or dataset characteristics.
 - Ensure that all required libraries are installed before running the code.
