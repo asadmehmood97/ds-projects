@@ -1,8 +1,8 @@
-# Air Quality Index Prediction Using Regression Models
+# **Forecasting Air Quality Index Utilizing Ensemble and Boosting Regression Models with Hyperparameter Tuning**
 
 This project involves predicting the Air Quality Index (AQI) using various regression models. The dataset used is the "air-quality-dataset-India.csv".
 
-## Introduction
+## **Introduction**
 
 The project follows the following steps:
 
@@ -28,7 +28,7 @@ The project follows the following steps:
     - Mean Absolute Error (MAE)
     - R-squared (R2)
 
-## Instructions
+## **Instructions**
 
 To run the code:
 
@@ -38,14 +38,14 @@ To run the code:
 
 Ensure that Python is installed on your system and that you have access to the necessary dataset file.
 
-## File Structure
+## **File Structure**
 
 - `Dataset/`: Directory containing the dataset file.
 - `README.md`: Overview of the project, detailed steps, implemented models, and evaluation metrics.
 - `requirements.txt`: File listing the required Python packages for running the code.
 - `air-quality-index-prediction.ipynb`: Contains the code for data analysis, regression modelling, and model comparison.
 
-## Notes
+## **Notes**
 
 - Adjust parameters and configurations in the code as needed based on specific requirements or dataset characteristics.
 - Interpret the results obtained from the regression models for insights into predicting the Air Quality Index.
