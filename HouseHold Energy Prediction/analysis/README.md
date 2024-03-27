@@ -1,4 +1,4 @@
-# Energy Consumption Forecasting Using Recurrent Neural Network Time Series Models
+# **Predictive Modeling of Energy Consumption with Recurrent Neural Network Time Series Models**
 
 This project focuses on forecasting energy consumption using time series models, aiming to provide accurate predictions for future energy demand. By leveraging historical energy consumption data, various time series models are employed to analyze patterns, trends, and seasonality in the data, ultimately generating forecasts for future energy usage. It employs LSTM, and GRU for time series prediction.
 
